@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farkhundamemon
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me memonfarkhunda05@gmail.com 
 
 <!---
